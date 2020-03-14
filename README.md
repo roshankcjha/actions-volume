@@ -3,6 +3,6 @@ Volume of Sphere
 # Inputs
 Radius
 # Output
-Volume of sphere = 4x3.14*(radius x radius x radius)/3
+Volume of sphere = 4 x 3.14 x (radius x radius x radius)/3
 # Example usage
 uses: sphere-volume-calculation-action@v1
