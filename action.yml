@@ -1,5 +1,5 @@
-name: 'Volume of a Cone'
-description: 'Calculate the Volume of a Cone'
+name: 'Volume of a Sphere'
+description: 'Calculate the Volume of a Sphere'
 inputs:
   radius:
     description: 'radius'
@@ -7,7 +7,7 @@ inputs:
     default: 10
 outputs:
   volume:
-    description: 'the volume of the cone'
+    description: 'the volume of the sphere'
 runs:
   using: 'node12'
   main: 'index.js'
