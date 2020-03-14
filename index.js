@@ -3,8 +3,8 @@ const github = require('@actions/github');
 
 try {
 
-  const side = core.getInput('side');
-  let vol = 4*3.14*side*side*side;
+  const radius = core.getInput('radius');
+  let vol = (4*3.14*radius*radius*radius)/3;
   console.log(`The volume of the cone is ${vol}!`);
   core.setOutput("Volume", vol);
 
