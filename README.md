@@ -3,6 +3,6 @@ Volume of Cone
 # Inputs
 Radius
 # Output
-Volume of cone = (4*3.14*radius*radius*radius)/3
+Volume of cone = 4*3.14*(radius*radius*radius)/3
 # Example usage
 uses: cone-volume-calculation-action@v1
