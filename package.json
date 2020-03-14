@@ -1,21 +1,21 @@
 {
-  "name": "area-of-square-action-master",
+  "name": "cone-volume-calculation-action-master",
   "version": "1.0.0",
-  "description": "area of square action",
+  "description": "volume of cone action",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dk1242/area-of-square-action.git"
+    "url": "git+https://github.com/roshankcjha/cone-volume-calculation-action.git"
   },
   "author": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dk1242/area-of-square-action/issues"
+    "url": "https://github.com/roshankcjha/cone-volume-calculation-action/issues"
   },
-  "homepage": "https://github.com/dk1242/area-of-square-action#readme",
+  "homepage": "https://github.com/roshankcjha/cone-volume-calculation-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.3",
     "@actions/github": "^2.1.1"
