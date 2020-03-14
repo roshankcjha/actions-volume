@@ -1,12 +1,12 @@
 name: 'Volume of a Cone'
 description: 'Calculate the Volume of a Cone'
 inputs:
-  side:
+  radius:
     description: 'radius'
     required: true
     default: 10
 outputs:
-  area:
+  volume:
     description: 'the volume of the cone'
 runs:
   using: 'node12'
