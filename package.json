@@ -1,21 +1,21 @@
 {
-  "name": "cone-volume-calculation-action-master",
+  "name": "sphere-volume-calculation-action-master",
   "version": "1.0.0",
-  "description": "volume of cone action",
+  "description": "volume of sphere action",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roshankcjha/cone-volume-calculation-action.git"
+    "url": "git+https://github.com/roshankcjha/sphere-volume-calculation-action.git"
   },
   "author": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/roshankcjha/cone-volume-calculation-action/issues"
+    "url": "https://github.com/roshankcjha/sphere-volume-calculation-action/issues"
   },
-  "homepage": "https://github.com/roshankcjha/cone-volume-calculation-action#readme",
+  "homepage": "https://github.com/roshankcjha/sphere-volume-calculation-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.3",
     "@actions/github": "^2.1.1"
