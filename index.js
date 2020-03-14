@@ -5,7 +5,7 @@ try {
 
   const radius = core.getInput('radius');
   let volume = (4*3.14*radius*radius*radius)/3;
-  console.log(`The volume of the cone is ${volume}!`);
+  console.log(`The volume of the sphere is ${volume}!`);
   core.setOutput("volume", volume);
 
   const payload = JSON.stringify(github.context.payload, undefined, 2)
