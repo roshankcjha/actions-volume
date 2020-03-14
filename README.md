@@ -1,8 +1,8 @@
-# area-of-square-action
-Area of Square
+# cone-volume-calculation-action
+Volume of Cone
 # Inputs
-side
+Radius
 # Output
-Area of square = side * side
+Volume of cone = (4*radius*radius*radius
 # Example usage
-uses: area-of-square-action@v1
+uses: cone-volume-calculation-action@v1
