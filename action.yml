@@ -1,0 +1,13 @@
+name: 'Area of a Square'
+description: 'Calculate the Area of a Square'
+inputs:
+  side:
+    description: 'side'
+    required: true
+    default: 10
+outputs:
+  area:
+    description: 'the area of the triangle'
+runs:
+  using: 'node12'
+  main: 'index.js'
